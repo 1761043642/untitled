@@ -7,5 +7,6 @@ public class text {
         System.out.println("hello2");
         System.out.println("text");
          System.out.println("textgithub");
+        System.out.println("idea");
     }
 }
